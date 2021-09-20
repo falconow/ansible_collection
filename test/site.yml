@@ -1,0 +1,5 @@
+---
+- name: Module create file
+  hosts: localhost
+  roles:
+    - falconow.test_collection.test_role
